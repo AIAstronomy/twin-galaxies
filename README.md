@@ -9,7 +9,7 @@ The aim is to search for galaxies with similar properties. We namely them twin g
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/) [![Keras 2.2](https://img.shields.io/badge/Keras-2.2-blue)](https://github.com/keras-team/keras/releases/tag/2.2.0) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)](https://github.com/jupyter/notebook/releases/tag/6.2.0) 
 
-Author: Carlos [@cdalvaro](https://github.com/cdalvaro)
+Author: Carlos García Peral[@carlosgp-ai](https://github.com/carlosgp-ai)
 
 Co-Author and Advisor: Guzmán-Álvarez, César A. [@cguz](https://github.com/cguz)
 
