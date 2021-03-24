@@ -36,17 +36,11 @@ Co-Author and Advisor: Guzmán-Álvarez, César A. [@cguz](https://github.com/cg
 
 Three Master Thesis degrees:
 
-* Detección de similitudes entre galaxias empleando algoritmos de machine learning
+* [Detección de similitudes entre galaxias empleando algoritmos de machine learning](https://github.com/cguz/twin-galaxies/src/orb-resnet50/tfm-miguel-lopez.pdf)
 
-/* [Detección de similitudes entre galaxias empleando algoritmos de machine learning](https://github.com/cguz/twin-galaxies/src/orb-resnet50/tfm-miguel-lopez.pdf)*/
+* [Detección de similitudes entre galaxias empleando Inteligencia Artificial](https://github.com/cguz/cnn-orb/tfm-victor-zamora.pdf)
 
-* Detección de similitudes entre galaxias empleando Inteligencia Artificial
-
-/* [Detección de similitudes entre galaxias empleando Inteligencia Artificial](https://github.com/cguz/cnn-orb/tfm-victor-zamora.pdf)*/
-
-* Automatización en la detección de similitudes entre galaxias con procesos de Deep Learning
-
-/* [Automatización en la detección de similitudes entre galaxias con procesos de Deep Learning](https://github.com/cguz/cnn-augmentation/tfe-carlos-garcia-peral.pdf)*/
+* [Automatización en la detección de similitudes entre galaxias con procesos de Deep Learning](https://github.com/cguz/cnn-augmentation/tfe-carlos-garcia-peral.pdf)
 
 
 Working on a conference paper:
