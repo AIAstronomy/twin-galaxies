@@ -13,6 +13,14 @@ Author: Carlos García Peral[@carlosgp-ai](https://github.com/carlosgp-ai)
 
 Co-Author and Advisor: Guzmán-Álvarez, César A. [@cguz](https://github.com/cguz)
 
+#### Abstract
+
+A novel method to detect similarities between galaxies. We based on different deep learning models to build the most efficient tool. The innovative idea of this work lies in the fact that the vast majority of works are based on the classification and detection of galaxies. Our approach is different, not seeking classification as the final objective but rather the search for galaxies with similar properties. We namely them twin galaxies.
+
+Our approach, first, classifies the galaxies by their morphology, and then based on a Convolutional Neural Network (CNN), compares the feature vectors of the galaxies and from those vectors, we calculate the Euclidean distance establishing a ranking that will indicate the twin galaxies. 
+
+One of the challenges is to find a balance between the complexity of the CNN and the hardware so that it can finish the training of the models.  We train and test our models using SDSS images for objects in the CALIFA SURVEY.
+
 
 ### [Detect similarities between galaxies with artificial intelligence techniques](https://github.com/cguz/twin-galaxies/src/cnn-orb/)
 
