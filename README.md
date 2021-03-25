@@ -42,11 +42,11 @@ Co-Author and Advisor: Guzmán-Álvarez, César A. [@cguz](https://github.com/cg
 
 Three Master Thesis degrees:
 
-* [Automation in the detection of similarities between galaxies with Deep Learning processes ![flagSpain](https://user-images.githubusercontent.com/15159632/112446524-97e1f480-8d50-11eb-9b65-edf9fe642211.png)](https://github.com/cguz/cnn-augmentation/tfe-carlos-garcia-peral.pdf)
+* [Automation in the detection of similarities between galaxies with Deep Learning processes <img src="https://user-images.githubusercontent.com/15159632/112446524-97e1f480-8d50-11eb-9b65-edf9fe642211.png" width="24">](https://github.com/cguz/cnn-augmentation/tfe-carlos-garcia-peral.pdf)
 
-* [Detection of similarities between galaxies using machine learning algorithms ![flagSpain](https://user-images.githubusercontent.com/15159632/112446524-97e1f480-8d50-11eb-9b65-edf9fe642211.png)](https://github.com/cguz/twin-galaxies/src/orb-resnet50/tfm-miguel-lopez.pdf)
+* [Detection of similarities between galaxies using machine learning algorithms <img src="https://user-images.githubusercontent.com/15159632/112446524-97e1f480-8d50-11eb-9b65-edf9fe642211.png" width="24">](https://github.com/cguz/twin-galaxies/src/orb-resnet50/tfm-miguel-lopez.pdf)
 
-* [Detection of similarities between galaxies using Artificial Intelligence ![flagSpain](https://user-images.githubusercontent.com/15159632/112446524-97e1f480-8d50-11eb-9b65-edf9fe642211.png)](https://github.com/cguz/cnn-orb/tfm-victor-zamora.pdf)
+* [Detection of similarities between galaxies using Artificial Intelligence <img src="https://user-images.githubusercontent.com/15159632/112446524-97e1f480-8d50-11eb-9b65-edf9fe642211.png" width="24">](https://github.com/cguz/cnn-orb/tfm-victor-zamora.pdf)
 
 
 
